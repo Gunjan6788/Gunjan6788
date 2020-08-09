@@ -12,3 +12,27 @@ I love to do web development and open to learning new technologies.
 - 🌱 I’m currently looking for a job.
 - 📫 How to reach me: gunjan6788@gmail.com
 - 😄 Pronouns: she/her
+
+<p>
+ <a href="https://www.hackerrank.com/gunjan6788?hr_r=1"><img src="https://img.shields.io/badge/hackerrank-%23339933.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gunjan-mahajan-a359ab125/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+ <hr>
+<h4> 🔭<samp> Tech Stack...</samp></h4>
+<p >
+ <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/react%20redux%20-%23c21325.svg?&style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/python%20-%23329993.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/mysql%20-%23db7023.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Flask%20-%23c21378.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+<hr>
+
+
+<p align='left'>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gunjan6788&theme=tokyonight&show_icons=true&count_private=true" height="207px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjan6788&theme=tokyonight"/>
+</P>
