@@ -9,7 +9,7 @@ I love to do web development and open to learning new technologies.
 </samp></p>
 
 - 🔭 Currently working on Python,Django.
-- 🌱 I’m currently looking for a job.
+<!-- - 🌱 I’m currently looking for a job. -->
 - 📫 How to reach me: gunjan6788@gmail.com
 - 😄 Pronouns: she/her
 
